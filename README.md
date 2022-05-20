@@ -9,4 +9,4 @@ A code that sorts license plates by alphabetical e numeral order.
 2) Run LicensePlateTest.java
 
 ### Note
-For the sake of testing, by default the program will creat random license plates so it can have an array of objects to sort from.
+For the sake of testing, by default the program will creat a random number of randomized license plates so it can have an array of objects to sort from.
